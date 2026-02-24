@@ -1,4 +1,5 @@
 # ChatJimmy2API 一键部署
+[![License: AEPL v1.0](https://img.shields.io/badge/License-AEPL_v1.0-red.svg)](LICENSE)
 
 把 `https://chatjimmy.ai/api/chat` 包装成 OpenAI 兼容接口，可部署到：
 
@@ -108,3 +109,7 @@ curl https://YOUR_BASE_URL/v1/chat/completions \
 - Base URL: `https://YOUR_BASE_URL/v1/chat/completions`
 - API Key: `YOUR_OPENAI_API_KEY`
 - Model: `llama3.1-8B`（或你自定义模型）
+
+## License
+
+AEPL v1.0
